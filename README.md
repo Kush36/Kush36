@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kush36
 - 👀 I’m interested in learning and exploring new things
-- 🌱 I’m currently learning c programming,web development
+- 🌱 I’m currently learning DSA programming, web development(Backend)
 - 💞️ I’m looking to collaborate on ..... 
 - 📫 How to reach me e-mail:kushagramishra4326@gmail.com
 
